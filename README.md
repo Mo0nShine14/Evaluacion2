@@ -19,7 +19,7 @@ El script `graphhopper_parse-json.py` consulta la API **GraphHopper Directions**
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/<su-usuario>/Evaluacion2.git
+   git clone https://github.com/Mo0nShine14/Evaluacion2.git
    cd Evaluacion2
    ```
 2. Definir el token como variable de entorno (así no queda escrito en el código):
@@ -35,5 +35,4 @@ El script `graphhopper_parse-json.py` consulta la API **GraphHopper Directions**
 
 ## Autores
 
-- Nombre Apellido
-- Nombre Apellido
+- Benjamin Cisterna
